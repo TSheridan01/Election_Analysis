@@ -29,12 +29,20 @@ The analysis of the eleciton show
       The Winner of the Election was Diana DeGette. 
       
       
+      
+      
   #Challenge Overview
   
+  The overview of this challange is to find out data for our client.
+  Tom and Seth are looking for:
+    -The voter turnout for each county
+    -The percentage of votes from each county out of the total count
+    -The county with the highest turnout
   
   
   #Challenge Summary
   
+  The summary of this challenge is to find an effecient way to source through large quantities of data in order to find out how the election votes turned out. This code can be modified in order to suit any election. 
   
   
   
