@@ -26,10 +26,12 @@ The analysis of the eleciton show
    Diana DeGette recieevd 73.8% and 272,892 votes
    Raymon Anthony Doane receievd 3.1% and 11,606 votes.
    
+        In total 369,711 votes were cast, with Denver being the largest turnout with 82.8% and 306,055 votes. 
+   
       The Winner of the Election was Diana DeGette. 
       
-      
-      
+
+![image](https://github.com/TSheridan01/Election_Analysis/blob/cd3c1a4072b9a3727f6b6a50225871f784e2c909/Resources/Election%20Results.png)     
       
   #Challenge Overview
   
