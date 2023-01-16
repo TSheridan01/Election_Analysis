@@ -33,7 +33,7 @@ The analysis of the eleciton show
 
 ![image](https://github.com/TSheridan01/Election_Analysis/blob/cd3c1a4072b9a3727f6b6a50225871f784e2c909/Resources/Election%20Results.png)     
       
-  #Challenge Overview
+  # Challenge Overview
   
   The overview of this challange is to find out data for our client.
   Tom and Seth are looking for:
@@ -42,7 +42,7 @@ The analysis of the eleciton show
     -The county with the highest turnout
   
   
-  #Challenge Summary
+  # Challenge Summary
   
   The summary of this challenge is to find an effecient way to source through large quantities of data in order to find out how the election votes turned out. This code can be modified in order to suit any election. 
   
